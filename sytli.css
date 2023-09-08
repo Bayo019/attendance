@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(211, 245, 158);
+
+}
+table{
+    border: 3px solid purple;
+    width: 70%;
+    border-collapse: collapse;
+}
+
+table,th,td{
+    border: solid 2px purple;
+    padding: 5px;
+
+}
+th{
+    background-color: rgb(232, 90, 215);
+    font-size: larger;
+    
+}
+td{
+    text-align: center;
+}
+#main-div{
+    margin: 100px;
+    padding: 10px;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+#li-div{
+    margin-left: 70%;
+}
+#menu-li, li {
+    display: inline;
+    padding: 20px;
+    border-right: rgb(212, 212, 203) 2px solid;
+    background-color: rgb(149, 127, 207);
+    border-radius: 10px;
+    color: white;
+}
+#input-div{
+    border: rgb(213, 6, 6) 2px solid;
+    margin: 300px;
+    padding: 5px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.input-control{
+    height: 40px;
+    width: 400px;
+}
+h4{
+    color: rgb(21, 5, 241);
+    font-size: 30px;
+}
+#sub-div{
+    text-align: center;
+}
+

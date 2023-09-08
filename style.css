@@ -1,0 +1,26 @@
+body{
+    background-color: cornflowerblue;
+}
+
+
+
+
+
+title{
+    font-size: 30px;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+
+}
+h2{
+    text-align: left;
+    color: blue;
+}
+p{
+    text-align: left;
+}
+#btn-submit{
+    color: aqua;
+}

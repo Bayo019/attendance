@@ -1,0 +1,69 @@
+body{
+    background-color: gray;
+}
+img{
+    width: 100%;
+    height: 500px;
+}
+#upper-content{
+    margin-top: -500px;
+}
+#menu-items, li{
+    display: inline;
+    padding: 20px;
+    border-right: rgb(212, 212, 203) 2px solid;
+    background-color: rgb(149, 127, 207);
+    border-radius: 10px;
+    color: white;
+
+}
+#lists-div{
+    padding: 50px;
+    margin-left: 60%;
+    margin-top: -50px;
+  
+   
+}
+li{
+    color: aliceblue;
+}
+#title{
+    font-size: 35px;
+    color: rgb(9, 67, 90);
+  
+}
+h2{
+    font-size: 50px;
+    color: rgb(238, 9, 142);
+
+}
+#first-p{
+    color: rgb(245, 244, 249);
+    font-size: 30px;
+}
+#reading{
+    width: 50%;
+    height: 20%;
+    border-radius: 20px;
+    
+}
+#below-div{
+    background-color: aquamarine;
+}
+#celebrating{
+    height: 10%;
+    margin-left: 60%;
+    width: 39%;
+    margin-top: -80%;
+    border-radius: 15px;
+}
+p{
+    font-size: 20px;
+}
+#google-log{
+    font-weight: bold;
+    margin: 40%;
+    font-size: 40px;
+    color: rgb(46, 163, 235);
+    
+}
